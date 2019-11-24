@@ -28,7 +28,8 @@ Notebook中的主要算法，独立形成Python源文件。
 ## 目录
 1. 线性代数中的线性方程组
     1. [线性方程组](./chapter.01/section.1.01.notes.ipynb)
-    2.
+    2. 行化简与阶梯形矩阵
+    3. [向量方程](./chapter.01/section.1.03.notes.ipynb)
 2. 矩阵代数
 
 ## 代码运行环境
